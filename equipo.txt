@@ -1,7 +1,0 @@
-Nombre y apellidos:
- - Jose Antonio Alcalá Hinojosa (Miembro 1)
- - Alejandro Morales Rosas (Miembro 2)
- - Antonio Lizana Palomino (Miembro 3)
-
-(Hay que poner la rama de cada uno pero no se a que se refiere)
-
