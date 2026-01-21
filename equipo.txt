@@ -3,5 +3,3 @@ Nombre y apellidos:
  - Alejandro Morales Rosas (Miembro 2) (funcionalidad-documento)
  - Antonio Lizana Palomino (Miembro 3)
 
-(Hay que poner la rama de cada uno pero no se a que se refiere)
-
